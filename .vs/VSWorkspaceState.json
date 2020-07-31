@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\amplify",
+    "\\amplify\\#current-cloud-backend\\api",
+    "\\amplify\\#current-cloud-backend\\auth\\amplifyappaf588728",
+    "\\amplify\\.config",
+    "\\amplify\\backend\\api",
+    "\\amplify\\backend\\api\\notesapp",
+    "\\amplify\\backend\\storage\\imagestorage",
     "\\src"
   ],
-  "SelectedNode": "\\src\\App.js",
   "PreviewInSolutionExplorer": false
 }
